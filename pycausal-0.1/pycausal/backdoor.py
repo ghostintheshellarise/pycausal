@@ -1,7 +1,7 @@
 import networkx as nx
 
 '''
-Converts input to Network X Graph
+Converts input datastructure to Network X Graph
 '''
 def getNXgraph(dag):
     if not isinstance(dag, nx.classes.digraph.DiGraph):
