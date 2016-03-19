@@ -10,5 +10,5 @@ Dependencies
 
 Quick Guide
 -----------------------------------------------------------------------
-To install ::
-	python setup.py install 
+To install
+	`python setup.py install` 
