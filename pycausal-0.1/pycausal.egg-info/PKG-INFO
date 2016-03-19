@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: pycausal
+Version: 0.1
+Summary: Causal discovery and inference library
+Home-page: http://github.com/triptoes1/pycausal/
+Author: Tanmayee Narendra
+Author-email: UNKNOWN
+License: BSD
+Description: Pycausal - A Python library for causal inference and causal discovery
+        ---------------------------------------------------------------------
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Sociology
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
